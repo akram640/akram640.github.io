@@ -1,5 +1,5 @@
 # Akram Faiz
-### Example data science portfolio
+### Data science portfolio
 
 ## Education
 - IIT Madras
