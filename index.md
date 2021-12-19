@@ -6,6 +6,7 @@
 
 ### [Project 1 : Hoursing prices calculator](https://www.example.com)
 
+![](images/cat.jpg)
 
 ### [Project 2 : Cancer Detection](https://www.example.com)
 
